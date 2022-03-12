@@ -1,1 +1,82 @@
-
+body {
+    width: 600px;
+    text-align: center;
+    border-width: 5em;
+    border-style: solid;
+    padding: 20em;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 2rem;
+    letter-spacing: 1px;
+  }
+  h1 {
+    text-align: center;
+      width: 500px;
+      white-space: nowrap;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: italic;
+      font-weight: bold;
+      column-span: all;
+      font-variant-ligatures: normal;
+      font-size: 10rem;
+      letter-spacing: 10px;
+  }
+  h2 {
+      white-space: nowrap;
+      text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    column-span: all;
+    font-weight: bold;
+    font-variant-ligatures: normal;
+    font-size: 5rem;
+    letter-spacing: normal;
+  }
+  .cousy {
+      margin: 5px;
+      line-height: 1.5em;
+      white-space: normal;
+      columns: 3;
+      letter-spacing: 2px;
+      column-width: auto;
+      column-fill: balance;
+  }
+  .force {
+    margin: 5px;
+    line-height: 1.5em;
+      white-space: normal;
+      columns: 2;
+      letter-spacing: 2px;
+      column-width: auto;
+      column-fill: balance;
+  }
+  .yeezy {
+    margin: 5px;
+    line-height: 1.5em;
+      white-space: normal;
+    columns: 2;
+    letter-spacing: 2px;
+    column-width: auto;
+    column-fill: balance;
+}
+.jordan {
+    margin: 5px;
+    line-height: 1.5em;
+      white-space: normal;
+    columns: 2;
+    letter-spacing: 2px;
+    column-width: auto;
+    column-fill: balance;
+}
+.airmax {
+    margin: 5px;
+    columns: 2;
+    line-height: 1.5em;
+      white-space: normal;
+    letter-spacing: 2px;
+    column-width: auto;
+    column-fill: balance;
+}
